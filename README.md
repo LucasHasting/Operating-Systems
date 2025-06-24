@@ -55,10 +55,3 @@ Executing the program in Linux/Mac:
 ```sh
 ./a.out
 ```
-Compile the program:
-```sh
-g++ program-name.cpp
-```
-
-Executing the program in Windows:
-```sh
