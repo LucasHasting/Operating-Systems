@@ -7,6 +7,10 @@ The [RAG](RAG.pdf) file contains probelms involving a Resource Allocation Graph.
 
 The [Algorithm Tracing](Algorithm_Tracing.pdf) file contains the tracing of scheduling algorithms. 
 
+The [unash.cpp](unash.cpp) program is a basic shell.
+
+The [sysprog.cpp](sysprog.cpp) program provides basic system information.
+
 # C++ Installation and Usage
 
 The programs in this repository can be executed using the C++ language and the g++ compiler.
