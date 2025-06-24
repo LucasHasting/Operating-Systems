@@ -19,22 +19,7 @@ g++ for [Windows](https://sourceforge.net/projects/mingw/), don't forget to add 
 
 g++ can be installed on Linux using your favorite package manager.
 
-## Download Repo - Option 1: using [git](https://git-scm.com/downloads)
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/LucasHasting/Operating-Systems.git
-    ```
-
-2. Navigate to the directory of choice:
-    
-    ```sh
-    cd Computer-Science-I/Program-Folder
-    ```
-    
-## Download Repo - Option 2: without git
-1. Download the project as a zip file
-2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
+Next, download the repo by downloading the [ZIP](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github) or by using [git](https://docs.github.com/en/get-started/using-git/about-git).
 
 ### Run from the command line
 1. Find the location of the files you want to execute
